@@ -1,2 +1,2 @@
-# master_thesis_impl
-The implementation for my master thesis
+# master_thesis_mono_impl
+The monolithic implementation for my master thesis
